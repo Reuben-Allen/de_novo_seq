@@ -8,4 +8,5 @@ rows and columns.
 Note: I plan to update this code with an algorithm that will automatically determine the sequence from
 the matrix, but for now this must be done manually.
 ## Example:
-Suppose you are given the following spectrum:
+Suppose you are given the following spectrum obtained after fragmenting a doubly charged parent ion with 
+m/z = 491.26:
